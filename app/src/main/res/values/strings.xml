@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Welly Chandra</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus consequat sagittis ultricies.
+        Proin non dui tempor, consequat metus nec, fermentum diam. Ut consectetur cursus tincidunt. Class aptent taciti
+        sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc vel elit et lorem commodo volutpat.
+        Curabitur sit amet fermentum odio.\n\nNullam ultricies sem vel mollis posuere. Nullam in neque sed augue laoreet
+        tempus. Sed eros metus, aliquet sit amet tempor at, accumsan sit amet sem. Nullam ultrices mi condimentum,
+        tincidunt libero porttitor, molestie leo. Nunc quis hendrerit quam. Ut vehicula imperdiet felis feugiat
+        placerat. Duis in dictum metus. Nam cursus enim nulla, sit amet finibus arcu tempor a. Aenean ultrices venenatis
+        orci, nec placerat arcu efficitur sit amet. Pellentesque habitant morbi tristique senectus et netus et malesuada
+        fames ac turpis egestas. Maecenas ac leo arcu. Phasellus eleifend eget arcu vel sagittis. Aliquam vel nunc
+        ultrices, luctus lorem non, lacinia lectus. Nunc commodo lacus tincidunt enim suscipit, id mollis odio pretium.
+    </string>
+    <string name="title">About Me</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
